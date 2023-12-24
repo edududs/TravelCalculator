@@ -1,0 +1,7 @@
+/test
+/env
+/.mypy_cache
+/_pyside
+/__pycache__
+/venv
+*.pyc
